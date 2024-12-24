@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tetris.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tetris.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Zblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Sblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Jblock.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jblock.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\OBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\IBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IBlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Position.cs",
+              "RelativeDocumentMoniker": "Position.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Position.cs",
+              "RelativeToolTip": "Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:41:51.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tetris.csproj",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeDocumentMoniker": "Tetris.csproj",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeToolTip": "Tetris.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T02:41:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tetris.csproj.user",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tetris.csproj.user",
+              "RelativeDocumentMoniker": "Tetris.csproj.user",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tetris.csproj.user",
+              "RelativeToolTip": "Tetris.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-24T02:41:33.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:42:15.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zblock.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Zblock.cs",
+              "RelativeDocumentMoniker": "Zblock.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Zblock.cs",
+              "RelativeToolTip": "Zblock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:39:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tblock.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tblock.cs",
+              "RelativeDocumentMoniker": "Tblock.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Tblock.cs",
+              "RelativeToolTip": "Tblock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:36:51.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sblock.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Sblock.cs",
+              "RelativeDocumentMoniker": "Sblock.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Sblock.cs",
+              "RelativeToolTip": "Sblock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:35:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lblock.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Lblock.cs",
+              "RelativeDocumentMoniker": "Lblock.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Lblock.cs",
+              "RelativeToolTip": "Lblock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:31:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jblock.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Jblock.cs",
+              "RelativeDocumentMoniker": "Jblock.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\Jblock.cs",
+              "RelativeToolTip": "Jblock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:21:59.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBlock.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\IBlock.cs",
+              "RelativeDocumentMoniker": "IBlock.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\IBlock.cs",
+              "RelativeToolTip": "IBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:42:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OBlock.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\OBlock.cs",
+              "RelativeDocumentMoniker": "OBlock.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\OBlock.cs",
+              "RelativeToolTip": "OBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:41:54.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\yoann\\Desktop\\ynov\\Tetris\\Tetris\\Tetris\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:42:23.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
