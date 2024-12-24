@@ -1,94 +1,63 @@
-# Projet Tetris
+# Guide d'utilisation du jeu Tetris
 
-████████╗███████╗████████╗██████╗ ██╗███████╗ ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗
-╚══██╔══╝██╔════╝╚══██╔══╝██╔══██╗██║██╔════╝ ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
-   ██║   █████╗     ██║   ██████╔╝██║███████╗ ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║
-   ██║   ██╔══╝     ██║   ██╔══██╗██║╚════██║ ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║
-   ██║   ███████╗   ██║   ██║  ██║██║███████║ ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║
-   ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝ ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚════╝  ╚══════╝ ╚═════╝   ╚═╝
+## Contrôles du jeu
 
-## Notions
+Voici les touches que vous pouvez utiliser pour jouer au Tetris :
 
-- Documentation C# : Classe
-- Documentation C# : Héritage
-- Documentation C# : Timers
-- Documentation C# : Bitmap
-- Documentation C# : Graphiques
-- Documentation Visual Studio : Winform
+- **Flèche gauche** : Déplacer la forme vers la gauche
+- **Flèche droite** : Déplacer la forme vers la droite
+- **Flèche bas** : Faire tomber la forme plus rapidement
+- **Flèche haut** : Faire tourner la forme dans le sens horaire
+- **Z** : Faire tourner la forme dans le sens antihoraire
+- **C** : Mettre la forme en attente
+- **Espace** : Faire tomber la forme instantanément
+- **P** : Mettre le jeu en pause
+- **R** : Reprendre le jeu après une pause
+- **M** : Retourner au menu principal
 
-## Notion optionnelle
+## Fonctionnalités du jeu
 
-- Documentation C++ : Patron de conception (c'est une documentation C++ mais c'est plus une façon de coder, populaire dans les jeux vidéo)
+### Menu Principal
 
-## Instructions
+Le menu principal contient les options suivantes :
+- **Jouer** : Lance le jeu
+- **Options** : Permet de configurer les options du jeu
+- **Quitter** : Quitte le jeu
 
-Vous devez utiliser Visual Studio (pas Visual Studio Code) pour réaliser votre programme.
+### Interface de jeu
 
-Créez votre propre jeu Tetris ! Créez un menu avec les boutons "Jouer", "Options" et "Quitter" et faites-les fonctionner.
-- Le bouton Jouer doit lancer le jeu
-- Le bouton Options doit contenir des options configurables
-- Le bouton Quitter doit évidemment quitter le jeu
+L'interface de jeu comprend les éléments suivants :
+- **Grille de jeu** : C'est ici que les formes tombent et s'empilent.
+- **Score** : Affiche le score actuel du joueur.
+- **Prochaine forme** : Affiche la prochaine forme qui apparaîtra.
+- **Forme en attente** : Affiche la forme mise en attente.
 
-### Partie 1 - Jeu
+### Gameplay
 
-C'est ici que les utilisateurs marqueront des points dans votre jeu.
+- **Déplacement des formes** : Utilisez les touches de direction pour déplacer et faire tourner les formes.
+- **Chute des formes** : Les formes tombent automatiquement à un rythme régulier. Vous pouvez accélérer leur chute avec la flèche bas ou les faire tomber instantanément avec la barre d'espace.
+- **Rotation des formes** : Utilisez la flèche haut pour faire tourner les formes dans le sens horaire et la touche Z pour les tourner dans le sens antihoraire.
+- **Forme en attente** : Utilisez la touche C pour mettre une forme en attente et la récupérer plus tard.
+- **Lignes complètes** : Lorsque vous complétez une ligne, elle disparaît et vous gagnez des points.
+- **Game Over** : Le jeu se termine lorsque les formes atteignent le haut de la grille.
 
-#### Par où commencer ?
+### Options
 
-##### Dessin
+Dans le menu des options, vous pouvez configurer les éléments suivants :
+- **Volume du son** : Ajustez le volume de la musique et des effets sonores.
+- **Niveau de difficulté** : Choisissez le niveau de difficulté du jeu (facile, moyen, difficile).
+- **Contrôles** : Personnalisez les touches de contrôle du jeu.
 
-Tout d'abord, vous devez créer une grille dans votre interface, c'est ici que les utilisateurs joueront. Vous devez utiliser des éléments dans Winform pour le faire. Cette grille vous permettra de :
-- Gérer les collisions
-- Faire bouger vos formes en mettant à jour votre grille dans le temps
+### Sauvegarde et Chargement
 
-Vous pouvez définir votre forme comme vous le souhaitez, mais nous recommandons de créer une classe pour cela.
+- **Sauvegarde** : Vous pouvez sauvegarder votre partie en cours à tout moment depuis le menu pause.
+- **Chargement** : Vous pouvez charger une partie sauvegardée depuis le menu principal.
 
-Votre forme doit :
-- Avoir une taille
-- Avoir une couleur
-- Avoir une forme
-- Pouvoir tourner sauf à côté d'un mur ou d'une autre forme
+### Bonus
 
-Vous devez avoir une zone où les utilisateurs peuvent voir :
-- Leur score
-- La prochaine forme à venir
+Voici quelques fonctionnalités bonus que vous pouvez découvrir en jouant :
+- **Animations de menu** : Le menu principal peut afficher une animation de Tetris jouant seul.
+- **Nettoyage de la grille** : Lorsque vous atteignez un certain score, la grille peut être nettoyée pour vous donner un avantage.
+- **Modes de jeu** : Essayez différents modes de jeu pour varier les plaisirs.
 
-##### Timer
-
-Chaque jeu (ou presque) a un timer, il vous permettra de mettre à jour l'état du jeu.
-
-Avec le timer, vous devez :
-- Mettre à jour les animations
-- Augmenter la vitesse du jeu en fonction du score
-
-##### Gameplay
-
-C'est la façon de jouer au jeu avec les éléments que vous avez mis dans votre jeu. Vous pouvez réinventer la façon de jouer à Tetris si vous le souhaitez, mais vous devez faire fonctionner la base du jeu réel.
-
-Voici les éléments que vous devez mettre dans votre jeu :
-- Utiliser les touches pour déplacer votre forme de droite à gauche
-- Faire apparaître une forme aléatoire en haut de la grille
-- Faire tomber la forme
-- Faire tomber la forme plus rapidement lorsque l'utilisateur appuie sur la touche bas
-- Faire disparaître la ligne si elle est complète
-- Augmenter le score lorsqu'une ligne est complétée
-- Game over si la forme tombe en haut de la grille
-
-Vous pouvez ajouter des éléments de gameplay si vous le souhaitez.
-
-### Partie bonus
-
-C'est une partie optionnelle.
-
-Voici une liste de possibilités que vous pouvez ajouter à votre jeu :
-- Ajouter un menu où les utilisateurs pourront naviguer entre les boutons "Jouer", "Options" et "Quitter".
-- Sauvegarder votre partie en cours et la charger
-- Faire une animation pour le menu avec un Tetris jouant seul aléatoirement
-- Nettoyer la grille lorsque l'utilisateur atteint un certain score
-- Ajouter des malus
-- Ajouter des modes de jeu
-- Faire une IA qui apprend seule à jouer, fait un score incroyable et prend le contrôle de l'humanité (oubliez celle-là ^^')
-
-## Packages autorisés
-
-Vous pouvez utiliser tous les packages système fournis avec C# dans Visual Studio.
+Amusez-vous bien en jouant à Tetris !
